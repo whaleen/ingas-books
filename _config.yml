@@ -1,6 +1,6 @@
 title:            Inga's Books
 description:      
-url:              # Site url.
+url:              http://whaleen.github.io/ingasbooks.com/
 signoff:          # Inga Gelford.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
