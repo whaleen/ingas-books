@@ -5,21 +5,40 @@ title: text
 
 <h2>Sophie Ma's Magical Glasses</h2>
 
+<p>This delightfully written story by Inga Gelford is told through the innocent and non-judgmental eyes of a child. This story centers around Lydia, a little girl who, when aided by a pair of glasses, can see the true, unchanging essence within everyone she meets. Life doesn’t have to a struggle and perhaps all we have to do is just be!</p>
 
-<div class="half_column">
+<p>Inga Gelford weaves a charming and beautifully illustrated story showing that perception is interpretation and that impressions can be very misleading depending on the lens you chose to look through.</p>
+
+<p>The transcendental tale touches upon the healing and uplifting results of encountering the natural purity and guiltless inner nature of a child. Lydia sees that everyone has a jewel inside and that looking upon others with love and compassion in one’s heart enables one to the the truth within. This “love and kindness” energy is free <em>and</em> contagious as Lydia teaches the reader in this enchantingly illustrated story. No matter how young your child is, this story sends the lovely message that looking for the good in everyone just might bring forth more of the same.</p>
+
+
 <h3>Inga Gelford</h3>
-</div>
 
 
-<div class="half_column">
-<h3>Inga Gelford</h3>
-</div>
 
 <p></p>
+
+
+
+<ul class="posts">
+
+{% for post in site.posts %}
+    {% if post.categories contains 'author' %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+
+    {% endif %}
+{% endfor %}
+
+</ul>
+
+
 
 <h2>Updates</h2>
 
 <ul class="posts">
+
   {% for post in site.posts %}
   <li>
     <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
