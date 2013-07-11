@@ -5,13 +5,31 @@
     {% include head.html %}
   </head>
   <body>
-    {% include header.html %}
-    <div id='container'>
-      {% include links.html %}
-      <div class="content">
+
+
+<div class="row">
+  <div class="large-8 large-centered columns">
+
+    {% include header.html %}  
+
+    <div class="radius panel">
+
+		<div id="nav">
+    	{% include links.html %}
+	    </div>
+      
+      	<div class="">
         {{ content }}
-      </div>
+		</div>
+
     </div>
+
+
     {% include footer.html %}
+	
+  </div>
+</div>
+
+
   </body>
 </html>

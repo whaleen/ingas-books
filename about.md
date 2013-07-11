@@ -1,7 +1,10 @@
 ---
 layout: page
 title: About
+permlink: /about
 ---
+
+Publisher of Sophie Ma's Magical Glasses.
 
 Inga's Books is the publishing name...
 
