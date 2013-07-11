@@ -1,0 +1,29 @@
+---
+layout: index
+title: text
+---
+
+<h2>Sophie Ma's Magical Glasses</h2>
+
+
+<div class="half_column">
+<h3>Inga Gelford</h3>
+</div>
+
+
+<div class="half_column">
+<h3>Inga Gelford</h3>
+</div>
+
+<p></p>
+
+<h2>Updates</h2>
+
+<ul class="posts">
+  {% for post in site.posts %}
+  <li>
+    <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
