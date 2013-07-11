@@ -5,11 +5,21 @@
     {% include head.html %}
   </head>
   <body>
-    {% include header.html %}
-    <div id='container'>
-      {% include links.html %}
-      {% include pages.html %}
-      <div class="content">
+  
+  
+  <div class="row">
+  <div class="large-8 large-centered columns">
+
+    {% include header.html %}  
+
+    <div class="radius panel">
+
+		<div id="nav">
+    	{% include links.html %}
+		{% include pages.html %}    	
+	    </div>
+      
+      	<div class="">
         <section class='post'>
           <h1 class="upcase">
             <div class='date'>{{ page.date | date_to_string }}</div>
@@ -17,11 +27,12 @@
           </h1>
           {{ content }}
           {% include signoff.html %}
-
-
         </section>
-      </div>
-      {% if page.share == 'y' %}
+		</div>
+
+    </div>
+    
+          {% if page.share == 'y' %}
         {% include share.html %}
       {% endif %}
 
@@ -29,7 +40,12 @@
         {% include disqus.html %}
       {% endif %}
       {% include links.html %}
-    </div>
+
+
+	
+  </div>
+</div>
+
     {% include footer.html %}
   </body>
 </html>
