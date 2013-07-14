@@ -14,7 +14,7 @@ $base-font-size: 100% !default;
 // Since the typical default browser font-size is 16px, that makes the calculation for grid size.
 // If you want your base font-size to be a different size and not have it effect grid size too,
 // set the value of $em-base to $base-font-size ($em-base: $base-font-size;)
-$em-base: 18px !default;
+$em-base: 16px !default;
 
 // Working in ems is annoying. Think in pixels by using this handy function, emCalc(#px)
 @function emCalc($pxWidth) {
@@ -30,7 +30,7 @@ $default-float: left;
 
 $body-bg: #fff;
 $body-font-color: #222;
-$body-font-family: "Helvetica Neue", "Serif", serif;
+$body-font-family: "Serif", serif;
 $body-font-weight: normal;
 $body-font-style: normal;
 
@@ -47,7 +47,7 @@ $body-font-style: normal;
 $primary-color: #5e237f;
 // $secondary-color: #e9e9e9;
 // $alert-color: #c60f13;
-// $success-color: #5da423;
+$success-color: #7cb468;
 
 // Make sure border radius matches unless we want it different.
 

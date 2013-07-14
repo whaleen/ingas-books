@@ -1,0 +1,76 @@
+<html>
+  <head>
+    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
+    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% include head.html %}
+  </head>
+  <body>
+  
+<div class="row">
+  <div class="large-8 large-centered columns">
+  
+    {% include header.html %}
+
+    <div class="content">
+
+		<nav class="navigation">
+    	{% include links.html %}
+		</nav>
+
+
+
+{% if page.image.feature %}
+
+<section class='post'>
+
+<h1>{{ page.title }}</h1>
+            
+<div class="row">
+
+<div class="large-4 columns">
+<img src="{{ site.url }}/images/{{ page.image.feature }}" class="th" alt="{{ page.title }}">
+</div>
+
+<div class="large-8 columns">
+<h4 class="subheader">{{ page.description }}</h4>
+</div>
+      
+</div>
+
+<hr />
+
+<div class="row">
+<div class="large-12 columns">
+{{ content }}
+
+<button class="expand medium success radius secondary">$14 Online Purchase</button>
+</div>
+</div>
+
+</section>
+
+
+{% else %}
+
+<!-- A reminder that we have only one book and it requires a featured image -->
+<h1>{{ page.title }}</h1>
+{{ content }}
+
+
+{% endif %}
+
+
+      
+
+
+
+    </div>
+
+    {% include footer.html %}
+    
+</div>
+</div>
+    
+  </body>
+</html>

@@ -1,7 +1,7 @@
 ---
 layout: page
+permalink: /about/index.html
 title: About
-permlink: /about
 ---
 
 Publisher of Sophie Ma's Magical Glasses.

@@ -1,7 +1,7 @@
-<div class="large-6 large-centered columns">
-<ul class="inline-list">
-  {% for link in site.links %}
-    <li><a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">{{ link.name }}</a></li>
-  {% endfor %}
-</ul>
-</div>
+<nav id="primary-nav" class="center">
+
+{% for link in site.links %}
+<a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="nav-link" href="{{ link.url }}">{{ link.name }}</a>
+{% endfor %}
+
+</nav>
