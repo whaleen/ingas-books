@@ -2,7 +2,7 @@ title:            Inga's Books
 description:      
 
 #Comment out url when working locally to resolve base urls correctly
-url:              # http://whaleen.github.io/ingasbooks.com/
+url:              http://whaleen.github.io/ingasbooks.com/
 
 signoff:          # Inga Gelford.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
