@@ -3,6 +3,9 @@
     <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
     <title>{{ page.title }} - {{ site.title }}</title>
     {% include head.html %}
+    
+    {% include twittercard.html %}
+	{% include opengraph.html %}
   </head>
   <body>
   
@@ -32,6 +35,8 @@
           {% include signoff.html %}
 <hr />
 
+
+          {% include share.html %}
 <h5 class="subheader">Share This <a href="#" class="tiny radius button secondary"><i class="icon-twitter icon-large"></i></a> <a href="#" class="tiny radius button secondary"><i class="icon-facebook icon-large"></i></a></h5>
         </section>
         
