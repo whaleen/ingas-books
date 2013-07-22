@@ -1,5 +1,8 @@
 title:            Inga's Books
-description:      
+description:      Publisher of Sophie Ma's Magical Glasses
+
+twitter:          ingasbooks
+facebook:         ingasbooks
 
 #Comment out url when working locally to resolve base urls correctly
 url:              http://whaleen.github.io/ingasbooks.com/
