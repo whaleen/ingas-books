@@ -4,12 +4,16 @@ description:      Publisher of Sophie Ma's Magical Glasses
 twitter:          ingasbooks
 facebook:         ingasbooks
 
+facebook_appid:   207386912749291
+
 #Comment out url when working locally to resolve base urls correctly
 url:              http://whaleen.github.io/ingasbooks.com/
 
 signoff:          # Inga Gelford.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+
+# appid for like button in /_includes/share.html
+facebook_appid:   207386912749291 
 
 links:
   - name:         Home
