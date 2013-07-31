@@ -29,6 +29,6 @@ Inga's concept for this book began to unfold 8 years ago. She felt moved to writ
 
 This book is part one in a trilogy so everyone can look forward to further adventures with Lydia and Grandmother Sophie Ma.
 
-------------------
+-------------------
 
 More on: [Sophie Ma's Magical Glasses](/book/sophie-mas-magical-glasses)
