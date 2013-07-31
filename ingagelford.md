@@ -8,6 +8,7 @@ image:
 comments: true 
 ---
 
+-----------------
 
 Inga Gelford, a microbiologist, wine chemistry analyst, professional healthcoach, and now [children's book](/book/sophie-mas-magical-glasses) author, lives in McMinnville, Oregon.
 
