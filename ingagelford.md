@@ -28,3 +28,7 @@ Inga's concept for this book began to unfold 8 years ago. She felt moved to writ
 > "I wanted to teach some of life's better discoveries through the medium of a children's story. Adults are leading our children into the future, so I wanted to write just as much for the adults as for the children, and to express values that uplift us all"
 
 This book is part one in a trilogy so everyone can look forward to further adventures with Lydia and Grandmother Sophie Ma.
+
+------------------
+
+More on: [Sophie Ma's Magical Glasses](/book/sophie-mas-magical-glasses)
