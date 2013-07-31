@@ -25,6 +25,6 @@ Inga definitely loves life and believes in nurturing positive relationships and 
 
 Inga's concept for this book began to unfold 8 years ago. She felt moved to write a visual and verbal story, raising awareness by embracing the fun in life as told in simple, enjoyable terms.
 
-> "I wanted to teach some of life's better discoveries through a the medium of a children's story" This book is written for the parents as well as the children. "Adults are leading our children into the future, so I wanted to write just as much for the adults as for the children, and to express values that uplift us all"
+> "I wanted to teach some of life's better discoveries through the medium of a children's story. Adults are leading our children into the future, so I wanted to write just as much for the adults as for the children, and to express values that uplift us all"
 
-This book is part of a trilogy so everyone can look forward to further adventures with Lydia and Grandmother Sophie Ma.
+This book is part one in a trilogy so everyone can look forward to further adventures with Lydia and Grandmother Sophie Ma.
