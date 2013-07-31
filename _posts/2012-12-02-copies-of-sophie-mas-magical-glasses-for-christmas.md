@@ -7,4 +7,4 @@ comments: true
 
 ---
 
-There is still time to order your copies of [Sophie Ma's Magical Glasses](/book/sophie-mas-magical-glasses/) for Christmas! Just $14 plus postage if you order from me which is $4 off the online price. Who do you know that would like a short magical story with fabulous illustrations for Christmas?
+There is a great time to order your copies of [Sophie Ma's Magical Glasses](/book/sophie-mas-magical-glasses/)! Who do you know that would like a short magical story with fabulous illustrations for Christmas?

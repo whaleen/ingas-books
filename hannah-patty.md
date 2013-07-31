@@ -8,4 +8,4 @@ comments: true
 ---
 
 
-This is the post for Hannah Patty.
+Hannah Patty is an age 18-year-old watercolor artist living in McMinnville, Oregon with her family and her pets; a rabbit, a rat, a cat, and chickens. In her spare time, Hannah enjoys running, biking, playing music and photography, among other things.

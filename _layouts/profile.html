@@ -12,19 +12,25 @@
   
     {% include header.html %}
 
-    <div class="content">
-
 		<nav class="navigation">
-    	{% include links.html %}
 		</nav>
-
-
+		
+    	{% include links.html %}
+    	
+    	
+    <div class="content">
+		
           <section class='post'>
             <h1>{{ page.title }}</h1>
 
 <div class="row">
 <div class="large-4 columns">
         {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="th" alt="{{ page.title }}">{% else %} no feature image{% endif %}
+        
+<hr />
+        
+<i class="icon-envelope"></i> <a href="mailto:{{ page.email }}">{{ page.email }}</a>        
+
 </div>
 
 <div class="large-8 columns">
