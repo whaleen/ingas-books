@@ -21,7 +21,7 @@ Inga definitely loves life and believes in nurturing positive relationships and 
 
 -----------------
 
-### Sophie Ma's Magical GLasses
+### Sophie Ma's Magical Glasses
 
 Inga's concept for this book began to unfold 8 years ago. She felt moved to write a visual and verbal story, raising awareness by embracing the fun in life as told in simple, enjoyable terms.
 
