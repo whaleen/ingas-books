@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Book Singing at McMinnville Farmer's Market
+description: A chance to meet the author and illustrator.
 image:
   feature: dragonfly-glasses.jpg
 comments: true 
