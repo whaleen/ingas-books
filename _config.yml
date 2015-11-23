@@ -7,13 +7,13 @@ facebook:         ingasbooks
 facebook_appid:   207386912749291
 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://ingasbooks.com
+# url:              
 
 signoff:          # Inga Gelford.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 
 # appid for like button in /_includes/share.html
-facebook_appid:   207386912749291 
+facebook_appid:   207386912749291
 
 links:
   - name:         Home
