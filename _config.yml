@@ -6,8 +6,11 @@ facebook:         ingasbooks
 
 facebook_appid:   207386912749291
 
-#Comment out url when working locally to resolve base urls correctly
-url:              http://whaleen.github.io/ingas-books/
+
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://whaleen.github.io/ingas-books/" # the base hostname & protocol for your site
+
 
 signoff:          # Inga Gelford.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
